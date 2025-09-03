@@ -1,0 +1,10 @@
+.monaco-workbench {
+    background-image: url('https://media.giphy.com/media/3o7TKsQ8kBMo7iZ8I8/giphy.gif') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    opacity: 0.8; /* Adjust for visibility */
+}
+.monaco-workbench .part {
+    background: transparent !important; /* Make editor panes transparent */
+}
